@@ -2,11 +2,6 @@ DISCONTINUATION OF PROJECT.
 
 This project will no longer be maintained by Intel.
 
-This project has been identified as having known security escapes.
-
-Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.  
-
-Intel no longer accepts patches to this project.
 # Loss Prevention Service
 [![license](https://img.shields.io/badge/license-Apache%20v2.0-blue.svg)](LICENSE)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/intel/rsp-sw-toolkit-im-suite-loss-prevention-service)
